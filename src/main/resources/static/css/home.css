@@ -1,0 +1,12 @@
+body {
+    font-weight: 400;
+}
+
+.intro-2 {
+    background: url("https://upload-images.jianshu.io/upload_images/3424642-ecf3834fc29d5c68.png")no-repeat center center;
+    background-size: cover;
+}
+
+h6 {
+    line-height: 1.7;
+}
